@@ -1,0 +1,5 @@
+coloredlogs 
+numpy 
+matplotlib 
+easydict 
+scikit-learn
